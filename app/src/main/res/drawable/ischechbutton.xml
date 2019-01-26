@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--http://keeganlee.me/post/android/20150905  selector讲解-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/nocheck" android:state_pressed="true" />
+    <item android:drawable="@drawable/check" />
+</selector>
